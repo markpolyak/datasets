@@ -1,0 +1,3 @@
+# ignore unarchived datasets
+data/dns-tunneling.log
+
