@@ -1,3 +1,5 @@
+# Выводит все расширения файлов, которые есть, и кол-во файлов каждого расширения
+
 import os
 from collections import defaultdict
 
